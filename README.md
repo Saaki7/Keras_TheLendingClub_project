@@ -8,4 +8,12 @@ Our Goal was from the given historical data on loans with information on whether
  4. Dealing Categorical features
  5. Normalizing
  6. Model building and evaluation.
+
+###1. Data Overview and Loading
+Imported several libraries that are useful for the implementation of the project. Pandas, Numpy, Matplotlib, Seaborn are some among them for several data analysis and visualization purposes. Loaded the data that I got from Kaggle resources and had a brief study of the Data frame.
+
+###2. Exploratory Data Analysis
+
+
+
  
